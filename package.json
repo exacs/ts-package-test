@@ -1,5 +1,5 @@
 {
-  "name": "ts-package-test",
+  "name": "@exacs/ts-package-test",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -7,7 +7,6 @@
   "type": "module",
   "scripts": {
     "prepublish": "tsc",
-    "build": "tsc",
     "test": "prettier --check .",
     "format": "prettier --write ."
   },
