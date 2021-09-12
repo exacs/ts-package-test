@@ -1,1 +1,3 @@
-console.log("Hello world")
+import {sum} from "./lib.js"
+
+console.log(sum(2, 3))
